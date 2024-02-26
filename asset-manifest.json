@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/kajutan-react/static/css/main.fdaebd74.css",
-    "main.js": "/kajutan-react/static/js/main.7ed6aa09.js",
+    "main.js": "/kajutan-react/static/js/main.fb1751d7.js",
     "static/js/453.9ca12d9b.chunk.js": "/kajutan-react/static/js/453.9ca12d9b.chunk.js",
     "static/media/kajjan1.png": "/kajutan-react/static/media/kajjan1.41db0741b3c7b8392527.png",
     "static/media/kajjan3.png": "/kajutan-react/static/media/kajjan3.98e2473847523db6c6ac.png",
@@ -15,11 +15,11 @@
     "static/media/Ovo-Regular.ttf": "/kajutan-react/static/media/Ovo-Regular.4b6eafae326cdd7098de.ttf",
     "index.html": "/kajutan-react/index.html",
     "main.fdaebd74.css.map": "/kajutan-react/static/css/main.fdaebd74.css.map",
-    "main.7ed6aa09.js.map": "/kajutan-react/static/js/main.7ed6aa09.js.map",
+    "main.fb1751d7.js.map": "/kajutan-react/static/js/main.fb1751d7.js.map",
     "453.9ca12d9b.chunk.js.map": "/kajutan-react/static/js/453.9ca12d9b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fdaebd74.css",
-    "static/js/main.7ed6aa09.js"
+    "static/js/main.fb1751d7.js"
   ]
 }
